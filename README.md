@@ -26,3 +26,4 @@ qq: http://dev.t.qq.com/developer
 renren: http://app.renren.com/developers/newapp
 weibo: http://open.weibo.com/webmaster/add
 fetion: http://i3.feixin.10086.cn/open/site/sitecreate
+
